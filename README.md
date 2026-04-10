@@ -1,4 +1,4 @@
-# 📊 Hotel Booking Data Analysis 
+# 📊 Hotel Booking Demand Analysis 
 
 ![Image](https://github.com/user-attachments/assets/17702f7d-7a31-48bd-bf82-4b21d86d8a24)
 
