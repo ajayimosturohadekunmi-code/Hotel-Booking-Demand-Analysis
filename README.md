@@ -1,6 +1,6 @@
 # 📊 Hotel Booking Data Analysis Project
 
----
+[Image](https://github.com/user-attachments/assets/baf4f96f-7c9f-4c8b-a600-f70d47a2f808)---
 
 ## 1. Introduction
 The hospitality industry relies heavily on data-driven insights to improve customer satisfaction, optimize operations, and maximize revenue.  
